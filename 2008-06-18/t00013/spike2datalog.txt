@@ -1,0 +1,6 @@
+Attemping to install templates.  [If error occurs, try deleting C:Usersfitz_labSpike2Templates.bin.]
+readSpikeChan = 6, tempSize = 19, numTemps = 4
+New mappingstage: 1
+The name read from the instruction file is t00013.
+ Data File Saved: z:\svanhooser\data\2008-06-18\\t00013\spike2data
+
