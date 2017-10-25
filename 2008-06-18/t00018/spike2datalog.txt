@@ -1,0 +1,202 @@
+Attemping to install templates.  [If error occurs, try deleting C:Usersfitz_labSpike2Templates.bin.]
+readSpikeChan = 6, tempSize = 19, numTemps = 7
+New mappingstage: 1
+Discarded Trial: Stim:   8 	StimID:   8 eventTime: 19.802 lookforTime: 19.074 processTime: 19.871 elapsedtime  0.069
+New mappingstage: 3
+Discarded Trial: Stim:  44 	StimID:   4 eventTime: 22.059 lookforTime: 22.210 processTime: 22.213 elapsedtime  0.154
+New mappingstage: 2
+Discarded Trial: Stim:  21 	StimID:   1 eventTime: 24.590 lookforTime: 24.612 processTime: 24.621 elapsedtime  0.031
+New mappingstage: 3
+Discarded Trial: Stim:  57 	StimID:  17 eventTime: 26.870 lookforTime: 26.990 processTime: 27.002 elapsedtime  0.132
+New mappingstage: 2
+Discarded Trial: Stim:  28 	StimID:   8 eventTime: 29.251 lookforTime: 29.270 processTime: 29.284 elapsedtime  0.033
+Discarded Trial: Stim:  36 	StimID:  16 eventTime: 31.496 lookforTime: 31.650 processTime: 31.670 elapsedtime  0.174
+New mappingstage: 3
+Discarded Trial: Stim:  53 	StimID:  13 eventTime: 33.953 lookforTime: 34.053 processTime: 34.079 elapsedtime  0.126
+New mappingstage: 2
+Discarded Trial: Stim:  35 	StimID:  15 eventTime: 36.241 lookforTime: 36.360 processTime: 36.399 elapsedtime  0.158
+New mappingstage: 1
+Discarded Trial: Stim:  13 	StimID:  13 eventTime: 38.711 lookforTime: 38.804 processTime: 38.830 elapsedtime  0.118
+New mappingstage: 3
+Discarded Trial: Stim:  48 	StimID:   8 eventTime: 41.033 lookforTime: 41.115 processTime: 41.119 elapsedtime  0.086
+Discarded Trial: Stim:  49 	StimID:   9 eventTime: 43.285 lookforTime: 43.444 processTime: 43.454 elapsedtime  0.169
+Discarded Trial: Stim:  52 	StimID:  12 eventTime: 45.724 lookforTime: 45.845 processTime: 45.863 elapsedtime  0.139
+Discarded Trial: Stim:  50 	StimID:  10 eventTime: 48.042 lookforTime: 48.133 processTime: 48.139 elapsedtime  0.098
+New mappingstage: 1
+Discarded Trial: Stim:  11 	StimID:  11 eventTime: 50.344 lookforTime: 50.443 processTime: 50.458 elapsedtime  0.114
+New mappingstage: 2
+Discarded Trial: Stim:  33 	StimID:  13 eventTime: 52.614 lookforTime: 52.752 processTime: 52.756 elapsedtime  0.142
+Discarded Trial: Stim:  26 	StimID:   6 eventTime: 54.894 lookforTime: 55.023 processTime: 55.050 elapsedtime  0.156
+New mappingstage: 1
+Discarded Trial: Stim:   4 	StimID:   4 eventTime: 57.233 lookforTime: 57.306 processTime: 57.331 elapsedtime  0.098
+New mappingstage: 2
+Discarded Trial: Stim:  23 	StimID:   3 eventTime: 59.555 lookforTime: 59.635 processTime: 59.641 elapsedtime  0.087
+New mappingstage: 1
+Discarded Trial: Stim:  18 	StimID:  18 eventTime: 61.807 lookforTime: 61.932 processTime: 61.969 elapsedtime  0.162
+New mappingstage: 3
+Discarded Trial: Stim:  52 	StimID:  12 eventTime: 64.286 lookforTime: 64.364 processTime: 64.379 elapsedtime  0.093
+New mappingstage: 2
+Discarded Trial: Stim:  25 	StimID:   5 eventTime: 66.533 lookforTime: 66.693 processTime: 66.714 elapsedtime  0.181
+Discarded Trial: Stim:  30 	StimID:  10 eventTime: 68.984 lookforTime: 69.098 processTime: 69.110 elapsedtime  0.125
+Discarded Trial: Stim:  27 	StimID:   7 eventTime: 71.314 lookforTime: 71.386 processTime: 71.389 elapsedtime  0.075
+New mappingstage: 1
+Discarded Trial: Stim:  17 	StimID:  17 eventTime: 73.629 lookforTime: 73.713 processTime: 73.724 elapsedtime  0.095
+New mappingstage: 3
+Discarded Trial: Stim:  53 	StimID:  13 eventTime: 75.917 lookforTime: 76.034 processTime: 76.054 elapsedtime  0.137
+New mappingstage: 1
+Discarded Trial: Stim:   1 	StimID:   1 eventTime: 78.224 lookforTime: 78.327 processTime: 78.347 elapsedtime  0.123
+New mappingstage: 3
+Discarded Trial: Stim:  52 	StimID:  12 eventTime: 80.534 lookforTime: 80.626 processTime: 80.633 elapsedtime  0.100
+New mappingstage: 1
+Discarded Trial: Stim:  18 	StimID:  18 eventTime: 82.797 lookforTime: 82.904 processTime: 82.911 elapsedtime  0.114
+Discarded Trial: Stim:   9 	StimID:   9 eventTime: 85.135 lookforTime: 85.203 processTime: 85.204 elapsedtime  0.070
+Discarded Trial: Stim:  10 	StimID:  10 eventTime: 87.286 lookforTime: 87.385 processTime: 87.398 elapsedtime  0.112
+Discarded Trial: Stim:  12 	StimID:  12 eventTime: 89.617 lookforTime: 89.694 processTime: 89.716 elapsedtime  0.099
+Discarded Trial: Stim:   3 	StimID:   3 eventTime: 91.925 lookforTime: 92.024 processTime: 92.026 elapsedtime  0.101
+New mappingstage: 3
+Discarded Trial: Stim:  47 	StimID:   7 eventTime: 94.245 lookforTime: 94.296 processTime: 94.318 elapsedtime  0.074
+New mappingstage: 2
+Discarded Trial: Stim:  25 	StimID:   5 eventTime: 96.584 lookforTime: 96.646 processTime: 96.657 elapsedtime  0.073
+New mappingstage: 3
+Discarded Trial: Stim:  50 	StimID:  10 eventTime: 98.898 lookforTime: 98.987 processTime: 99.005 elapsedtime  0.107
+Discarded Trial: Stim:  59 	StimID:  19 eventTime: 101.216 lookforTime: 101.278 processTime: 101.288 elapsedtime  0.072
+New mappingstage: 1
+Discarded Trial: Stim:   1 	StimID:   1 eventTime: 103.548 lookforTime: 103.617 processTime: 103.627 elapsedtime  0.079
+Discarded Trial: Stim:  16 	StimID:  16 eventTime: 105.850 lookforTime: 105.955 processTime: 105.973 elapsedtime  0.123
+New mappingstage: 2
+Discarded Trial: Stim:  21 	StimID:   1 eventTime: 108.149 lookforTime: 108.257 processTime: 108.263 elapsedtime  0.114
+Discarded Trial: Stim:  30 	StimID:  10 eventTime: 110.426 lookforTime: 110.559 processTime: 110.571 elapsedtime  0.145
+New mappingstage: 3
+Discarded Trial: Stim:  40 	StimID:   0 eventTime: 112.716 lookforTime: 112.826 processTime: 112.831 elapsedtime  0.115
+New mappingstage: 1
+Discarded Trial: Stim:  12 	StimID:  12 eventTime: 115.060 lookforTime: 115.116 processTime: 115.126 elapsedtime  0.066
+New mappingstage: 3
+Discarded Trial: Stim:  52 	StimID:  12 eventTime: 117.387 lookforTime: 117.468 processTime: 117.469 elapsedtime  0.083
+New mappingstage: 2
+Discarded Trial: Stim:  31 	StimID:  11 eventTime: 119.686 lookforTime: 119.788 processTime: 119.801 elapsedtime  0.115
+New mappingstage: 1
+Discarded Trial: Stim:  18 	StimID:  18 eventTime: 121.966 lookforTime: 122.056 processTime: 122.063 elapsedtime  0.097
+Discarded Trial: Stim:   9 	StimID:   9 eventTime: 124.279 lookforTime: 124.366 processTime: 124.372 elapsedtime  0.093
+New mappingstage: 3
+Discarded Trial: Stim:  50 	StimID:  10 eventTime: 126.578 lookforTime: 126.694 processTime: 126.696 elapsedtime  0.118
+New mappingstage: 2
+Discarded Trial: Stim:  25 	StimID:   5 eventTime: 128.918 lookforTime: 128.989 processTime: 128.993 elapsedtime  0.075
+Discarded Trial: Stim:  36 	StimID:  16 eventTime: 131.192 lookforTime: 131.327 processTime: 131.335 elapsedtime  0.143
+New mappingstage: 3
+Discarded Trial: Stim:  45 	StimID:   5 eventTime: 133.539 lookforTime: 133.597 processTime: 133.617 elapsedtime  0.079
+New mappingstage: 1
+Discarded Trial: Stim:   9 	StimID:   9 eventTime: 135.898 lookforTime: 135.950 processTime: 135.975 elapsedtime  0.078
+Discarded Trial: Stim:   8 	StimID:   8 eventTime: 138.207 lookforTime: 138.298 processTime: 138.307 elapsedtime  0.100
+New mappingstage: 3
+Discarded Trial: Stim:  58 	StimID:  18 eventTime: 140.522 lookforTime: 140.607 processTime: 140.649 elapsedtime  0.127
+New mappingstage: 2
+Discarded Trial: Stim:  24 	StimID:   4 eventTime: 142.658 lookforTime: 142.772 processTime: 142.774 elapsedtime  0.115
+New mappingstage: 3
+Discarded Trial: Stim:  51 	StimID:  11 eventTime: 145.028 lookforTime: 145.070 processTime: 145.082 elapsedtime  0.054
+Discarded Trial: Stim:  40 	StimID:   0 eventTime: 147.382 lookforTime: 147.428 processTime: 147.441 elapsedtime  0.059
+New mappingstage: 2
+Discarded Trial: Stim:  35 	StimID:  15 eventTime: 149.739 lookforTime: 149.788 processTime: 149.790 elapsedtime  0.051
+New mappingstage: 1
+Discarded Trial: Stim:   6 	StimID:   6 eventTime: 152.017 lookforTime: 152.151 processTime: 152.160 elapsedtime  0.143
+New mappingstage: 3
+Discarded Trial: Stim:  42 	StimID:   2 eventTime: 154.299 lookforTime: 154.418 processTime: 154.424 elapsedtime  0.125
+New mappingstage: 1
+Discarded Trial: Stim:  13 	StimID:  13 eventTime: 156.663 lookforTime: 156.699 processTime: 156.700 elapsedtime  0.038
+New mappingstage: 2
+Discarded Trial: Stim:  39 	StimID:  19 eventTime: 159.029 lookforTime: 159.074 processTime: 159.082 elapsedtime  0.053
+New mappingstage: 1
+Discarded Trial: Stim:  19 	StimID:  19 eventTime: 161.381 lookforTime: 161.444 processTime: 161.444 elapsedtime  0.064
+New mappingstage: 3
+Discarded Trial: Stim:  42 	StimID:   2 eventTime: 163.776 lookforTime: 163.789 processTime: 163.815 elapsedtime  0.040
+Discarded Trial: Stim:  57 	StimID:  17 eventTime: 166.101 lookforTime: 166.179 processTime: 166.182 elapsedtime  0.081
+Discarded Trial: Stim:  52 	StimID:  12 eventTime: 168.452 lookforTime: 168.515 processTime: 168.520 elapsedtime  0.068
+New mappingstage: 1
+Discarded Trial: Stim:  12 	StimID:  12 eventTime: 170.840 lookforTime: 170.860 processTime: 170.883 elapsedtime  0.043
+New mappingstage: 2
+Discarded Trial: Stim:  28 	StimID:   8 eventTime: 173.204 lookforTime: 173.250 processTime: 173.261 elapsedtime  0.057
+Discarded Trial: Stim:  21 	StimID:   1 eventTime: 175.531 lookforTime: 175.612 processTime: 175.626 elapsedtime  0.095
+New mappingstage: 1
+Discarded Trial: Stim:  17 	StimID:  17 eventTime: 177.770 lookforTime: 177.943 processTime: 177.947 elapsedtime  0.177
+New mappingstage: 3
+Discarded Trial: Stim:  49 	StimID:   9 eventTime: 180.323 lookforTime: 180.343 processTime: 180.369 elapsedtime  0.046
+New mappingstage: 1
+Discarded Trial: Stim:   7 	StimID:   7 eventTime: 182.651 lookforTime: 182.733 processTime: 182.753 elapsedtime  0.101
+New mappingstage: 2
+Discarded Trial: Stim:  37 	StimID:  17 eventTime: 184.891 lookforTime: 185.065 processTime: 185.073 elapsedtime  0.182
+Discarded Trial: Stim:  30 	StimID:  10 eventTime: 187.422 lookforTime: 187.464 processTime: 187.486 elapsedtime  0.063
+New mappingstage: 3
+Discarded Trial: Stim:  48 	StimID:   8 eventTime: 189.668 lookforTime: 189.834 processTime: 189.845 elapsedtime  0.177
+New mappingstage: 2
+Discarded Trial: Stim:  37 	StimID:  17 eventTime: 192.204 lookforTime: 192.241 processTime: 192.252 elapsedtime  0.048
+Discarded Trial: Stim:  34 	StimID:  14 eventTime: 194.572 lookforTime: 194.615 processTime: 194.617 elapsedtime  0.045
+Discarded Trial: Stim:  27 	StimID:   7 eventTime: 196.942 lookforTime: 196.983 processTime: 196.992 elapsedtime  0.050
+New mappingstage: 1
+Discarded Trial: Stim:  11 	StimID:  11 eventTime: 199.190 lookforTime: 199.352 processTime: 199.375 elapsedtime  0.184
+New mappingstage: 3
+Discarded Trial: Stim:  53 	StimID:  13 eventTime: 201.723 lookforTime: 201.763 processTime: 201.775 elapsedtime  0.052
+Discarded Trial: Stim:  45 	StimID:   5 eventTime: 204.123 lookforTime: 204.135 processTime: 204.159 elapsedtime  0.036
+New mappingstage: 1
+Discarded Trial: Stim:   7 	StimID:   7 eventTime: 206.502 lookforTime: 206.533 processTime: 206.549 elapsedtime  0.047
+New mappingstage: 2
+Discarded Trial: Stim:  22 	StimID:   2 eventTime: 208.875 lookforTime: 208.914 processTime: 208.922 elapsedtime  0.047
+New mappingstage: 3
+Discarded Trial: Stim:  45 	StimID:   5 eventTime: 211.113 lookforTime: 211.288 processTime: 211.290 elapsedtime  0.177
+New mappingstage: 1
+Discarded Trial: Stim:   6 	StimID:   6 eventTime: 213.643 lookforTime: 213.685 processTime: 213.688 elapsedtime  0.045
+New mappingstage: 3
+Discarded Trial: Stim:  48 	StimID:   8 eventTime: 215.896 lookforTime: 216.056 processTime: 216.085 elapsedtime  0.189
+New mappingstage: 1
+Discarded Trial: Stim:  14 	StimID:  14 eventTime: 218.356 lookforTime: 218.464 processTime: 218.476 elapsedtime  0.121
+New mappingstage: 3
+Discarded Trial: Stim:  58 	StimID:  18 eventTime: 220.595 lookforTime: 220.766 processTime: 220.783 elapsedtime  0.188
+Discarded Trial: Stim:  57 	StimID:  17 eventTime: 223.123 lookforTime: 223.164 processTime: 223.177 elapsedtime  0.053
+New mappingstage: 2
+Discarded Trial: Stim:  32 	StimID:  12 eventTime: 225.497 lookforTime: 225.534 processTime: 225.554 elapsedtime  0.057
+New mappingstage: 1
+Discarded Trial: Stim:  19 	StimID:  19 eventTime: 227.746 lookforTime: 227.906 processTime: 227.924 elapsedtime  0.178
+New mappingstage: 2
+Discarded Trial: Stim:  36 	StimID:  16 eventTime: 230.306 lookforTime: 230.316 processTime: 230.338 elapsedtime  0.032
+Discarded Trial: Stim:  32 	StimID:  12 eventTime: 232.643 lookforTime: 232.715 processTime: 232.729 elapsedtime  0.085
+Discarded Trial: Stim:  35 	StimID:  15 eventTime: 234.887 lookforTime: 235.054 processTime: 235.061 elapsedtime  0.174
+Discarded Trial: Stim:  38 	StimID:  18 eventTime: 237.373 lookforTime: 237.461 processTime: 237.480 elapsedtime  0.107
+New mappingstage: 3
+Discarded Trial: Stim:  45 	StimID:   5 eventTime: 239.746 lookforTime: 239.785 processTime: 239.787 elapsedtime  0.041
+New mappingstage: 2
+Discarded Trial: Stim:  38 	StimID:  18 eventTime: 241.968 lookforTime: 242.155 processTime: 242.157 elapsedtime  0.189
+Discarded Trial: Stim:  20 	StimID:   0 eventTime: 244.527 lookforTime: 244.537 processTime: 244.558 elapsedtime  0.031
+Discarded Trial: Stim:  34 	StimID:  14 eventTime: 246.767 lookforTime: 246.939 processTime: 246.948 elapsedtime  0.180
+Discarded Trial: Stim:  39 	StimID:  19 eventTime: 249.174 lookforTime: 249.336 processTime: 249.345 elapsedtime  0.172
+New mappingstage: 3
+Discarded Trial: Stim:  58 	StimID:  18 eventTime: 251.699 lookforTime: 251.735 processTime: 251.744 elapsedtime  0.045
+New mappingstage: 2
+Discarded Trial: Stim:  22 	StimID:   2 eventTime: 254.066 lookforTime: 254.107 processTime: 254.130 elapsedtime  0.064
+New mappingstage: 1
+Discarded Trial: Stim:   8 	StimID:   8 eventTime: 256.437 lookforTime: 256.478 processTime: 256.502 elapsedtime  0.065
+New mappingstage: 3
+Discarded Trial: Stim:  47 	StimID:   7 eventTime: 258.650 lookforTime: 258.816 processTime: 258.821 elapsedtime  0.171
+New mappingstage: 2
+Discarded Trial: Stim:  22 	StimID:   2 eventTime: 261.049 lookforTime: 261.057 processTime: 261.066 elapsedtime  0.018
+New mappingstage: 1
+Discarded Trial: Stim:   5 	StimID:   5 eventTime: 263.418 lookforTime: 263.459 processTime: 263.473 elapsedtime  0.055
+New mappingstage: 3
+Discarded Trial: Stim:  42 	StimID:   2 eventTime: 265.718 lookforTime: 265.826 processTime: 265.855 elapsedtime  0.137
+New mappingstage: 2
+Discarded Trial: Stim:  20 	StimID:   0 eventTime: 268.119 lookforTime: 268.129 processTime: 268.154 elapsedtime  0.036
+Discarded Trial: Stim:  23 	StimID:   3 eventTime: 270.517 lookforTime: 270.534 processTime: 270.559 elapsedtime  0.043
+Discarded Trial: Stim:  26 	StimID:   6 eventTime: 272.887 lookforTime: 272.929 processTime: 272.943 elapsedtime  0.057
+Discarded Trial: Stim:  21 	StimID:   1 eventTime: 275.131 lookforTime: 275.299 processTime: 275.307 elapsedtime  0.176
+Discarded Trial: Stim:  30 	StimID:  10 eventTime: 277.639 lookforTime: 277.707 processTime: 277.731 elapsedtime  0.092
+Discarded Trial: Stim:  20 	StimID:   0 eventTime: 280.007 lookforTime: 280.053 processTime: 280.060 elapsedtime  0.052
+New mappingstage: 1
+Discarded Trial: Stim:  19 	StimID:  19 eventTime: 282.254 lookforTime: 282.420 processTime: 282.434 elapsedtime  0.180
+New mappingstage: 2
+Discarded Trial: Stim:  39 	StimID:  19 eventTime: 284.660 lookforTime: 284.818 processTime: 284.828 elapsedtime  0.169
+New mappingstage: 3
+Discarded Trial: Stim:  40 	StimID:   0 eventTime: 287.158 lookforTime: 287.227 processTime: 287.254 elapsedtime  0.096
+Discarded Trial: Stim:  45 	StimID:   5 eventTime: 289.407 lookforTime: 289.570 processTime: 289.570 elapsedtime  0.163
+Discarded Trial: Stim:  42 	StimID:   2 eventTime: 291.939 lookforTime: 291.978 processTime: 292.002 elapsedtime  0.063
+New mappingstage: 1
+Discarded Trial: Stim:  14 	StimID:  14 eventTime: 292.580 lookforTime: 294.348 processTime: 294.356 elapsedtime  1.776
+The name read from the instruction file is t00018.
+ Data File Saved: z:\svanhooser\data\2008-06-18\\t00018\spike2data
+
