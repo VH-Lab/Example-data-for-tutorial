@@ -1,0 +1,7 @@
+Attemping to install templates.  [If error occurs, try deleting C:Usersfitz_labSpike2Templates.bin.]
+readSpikeChan = 6, tempSize = 19, numTemps = 9
+New mappingstage: 1
+Discarded Trial: Stim:   2 	StimID:   2 eventTime: 222.928 lookforTime: 222.148 processTime: 222.973 elapsedtime  0.045
+The name read from the instruction file is t00024.
+ Data File Saved: z:\svanhooser\data\2008-06-18\\t00024\spike2data
+
