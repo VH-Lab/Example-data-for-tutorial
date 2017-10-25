@@ -1,0 +1,28 @@
+Attemping to install templates.  [If error occurs, try deleting C:Usersfitz_labSpike2Templates.bin.]
+readSpikeChan = 6, tempSize = 19, numTemps = 5
+New mappingstage: 1
+Discarded Trial: Stim:   1 	StimID:   1 eventTime: 41.202 lookforTime: 41.803 processTime: 42.588 elapsedtime  1.386
+Discarded Trial: Stim:   8 	StimID:   8 eventTime: 44.502 lookforTime: 45.103 processTime: 45.114 elapsedtime  0.612
+Discarded Trial: Stim:   7 	StimID:   7 eventTime: 47.823 lookforTime: 48.423 processTime: 48.443 elapsedtime  0.620
+Discarded Trial: Stim:   3 	StimID:   3 eventTime: 51.093 lookforTime: 51.693 processTime: 51.696 elapsedtime  0.603
+Discarded Trial: Stim:   6 	StimID:   6 eventTime: 54.405 lookforTime: 54.993 processTime: 55.011 elapsedtime  0.606
+Discarded Trial: Stim:   6 	StimID:   6 eventTime: 57.703 lookforTime: 58.303 processTime: 58.316 elapsedtime  0.613
+Discarded Trial: Stim:   1 	StimID:   1 eventTime: 61.004 lookforTime: 61.604 processTime: 61.614 elapsedtime  0.610
+Discarded Trial: Stim:   2 	StimID:   2 eventTime: 64.273 lookforTime: 64.873 processTime: 64.874 elapsedtime  0.601
+Discarded Trial: Stim:   4 	StimID:   4 eventTime: 67.574 lookforTime: 68.174 processTime: 68.183 elapsedtime  0.609
+Discarded Trial: Stim:   3 	StimID:   3 eventTime: 70.884 lookforTime: 71.476 processTime: 71.478 elapsedtime  0.595
+Discarded Trial: Stim:   5 	StimID:   5 eventTime: 74.184 lookforTime: 74.786 processTime: 74.790 elapsedtime  0.606
+Discarded Trial: Stim:   9 	StimID:   9 eventTime: 77.454 lookforTime: 78.084 processTime: 78.093 elapsedtime  0.639
+Discarded Trial: Stim:   4 	StimID:   4 eventTime: 80.774 lookforTime: 81.374 processTime: 81.413 elapsedtime  0.639
+Discarded Trial: Stim:   8 	StimID:   8 eventTime: 84.077 lookforTime: 84.675 processTime: 84.677 elapsedtime  0.600
+Discarded Trial: Stim:   8 	StimID:   8 eventTime: 87.375 lookforTime: 87.975 processTime: 87.976 elapsedtime  0.600
+Discarded Trial: Stim:   9 	StimID:   9 eventTime: 90.655 lookforTime: 91.285 processTime: 91.291 elapsedtime  0.636
+Discarded Trial: Stim:   4 	StimID:   4 eventTime: 93.955 lookforTime: 94.555 processTime: 94.561 elapsedtime  0.606
+Discarded Trial: Stim:   7 	StimID:   7 eventTime: 97.265 lookforTime: 97.856 processTime: 97.880 elapsedtime  0.615
+Discarded Trial: Stim:   9 	StimID:   9 eventTime: 100.535 lookforTime: 101.168 processTime: 101.183 elapsedtime  0.647
+Discarded Trial: Stim:   4 	StimID:   4 eventTime: 103.836 lookforTime: 104.436 processTime: 104.460 elapsedtime  0.624
+Discarded Trial: Stim:   1 	StimID:   1 eventTime: 107.146 lookforTime: 107.748 processTime: 107.749 elapsedtime  0.603
+Discarded Trial: Stim:   3 	StimID:   3 eventTime: 110.446 lookforTime: 111.046 processTime: 111.056 elapsedtime  0.610
+The name read from the instruction file is t00070.
+ Data File Saved: z:\svanhooser\data\2008-06-18\\t00070\spike2data
+
